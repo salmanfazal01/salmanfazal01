@@ -5,7 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/salmanfazal01/salmanfazal01/master/wave.gif" width="30px">
 
-My name is Salman Fazal and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Salman Fazal and I'm a software developer/DevOps engineer. I'm from Tanzania, living in Toronto, Ca and currently working at Flight Centre Group. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
