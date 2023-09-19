@@ -7,11 +7,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/salmanfazal01/salmanfazal01/master/wave.gif" width="30px">
 
-My name is Salman Fazal and I'm a software developer/DevOps engineer. I'm from Tanzania, living in Toronto, Ca and currently working at Flight Centre Group. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [salmans.work](https://salmans.work/) as well as on [Medium](https://medium.com/@salmanfazal01) and [DEV.to](https://dev.to/salmanfazal01).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
