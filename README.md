@@ -31,18 +31,10 @@
 ## 💼 Core Skills  
 | Front-End | Back-End / Infra | Web3 / Modern Tools |
 |-----------|------------------|---------------------|
-| React, NextJS, Redux, Zustand | Firebase (Firestore, Cloud Functions), REST/APIs | RainbowKit, Alchemy, Web3Auth |
+| React, NextJS, Redux, Zustand | Supabase, Firebase (Firestore, Cloud Functions), REST/APIs | RainbowKit, Alchemy, Web3Auth |
 | TypeScript, JavaScript (ESNext) | Serverless, Node.js, Express | Solidity basics, Smart-contract integration |
 | Material-UI, Emotion, Styled-Components | CI/CD, Testing (Cypress, Jest) | Wallet connect flows, DApp UX |
 | Responsive Design, Accessibility, Performance Optimization | Webpack, Vite, Micro-frontends | Token flows, DeFi UI patterns |
-
----
-
-## 🎯 Key Projects  
-- **Maker Academy Platform**: End-to-end from Figma -> code + web3 login + analytics.  
-- **Flight Centre Front-end**: High-end react architecture, SDK maintenance, cross-platform mobile/web.  
-- **Forex Lens / Your Fuse Apps**: Built full-stack features with React + Firebase + cloud functions for trading/trading-analysis tools. :contentReference[oaicite:7]{index=7}  
-- **Open-source contributions**: Hooks library, internal util modules, community packages (link in GitHub profile).  
 
 ---
 
