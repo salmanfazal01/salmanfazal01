@@ -1,65 +1,83 @@
-(This is all a copy-paste fyi)
+<!--
+  README.md for Salman Fazal — Full-Stack / Front-End / Web3 Engineer
+  Portfolio: https://salmans.work/ :contentReference[oaicite:1]{index=1}
+  LinkedIn: https://ca.linkedin.com/in/salmanfazal :contentReference[oaicite:2]{index=2}
+-->
 
-### Hi there 👋
+# Hi, I’m Salman 👋  
+### Full-Stack Developer | React / NextJS / TypeScript | Web3 & Firebase
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nephew_Sam_?style=social)](https://twitter.com/Nephew_Sam_)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://ca.linkedin.com/in/salmanfazal)  
+[![Website](https://img.shields.io/website?label=salmans.work&style=social&url=https://salmans.work)](https://salmans.work/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/salmanfazal01/salmanfazal01/master/wave.gif" width="30px">
+---
 
+## 🚀 About Me  
+- I’m a front-end engineer with 5+ years of experience building large-scale web & mobile applications. :contentReference[oaicite:3]{index=3}  
+- My stack: **React**, **NextJS**, **TypeScript**, **Firebase**, and diving deep into **Web3** (RainbowKit + Alchemy) :contentReference[oaicite:4]{index=4}  
+- I transform high-fidelity Figma designs into pixel-perfect, fully responsive, blazingly fast user experiences.  
+- I thrive in agile, high-impact environments: turning ideas into production, scaling codebases, optimizing performance and UX.  
 
-## &#x270d; Blog & Writing
+---
 
+## 🔧 What I’m Working On  
+- Building the next generation of the Maker-ecosystem: the educational platform for MakerDAO — React + NextJS + Emotion + MUI + Web3 Auth. :contentReference[oaicite:6]{index=6}  
+- Exploring modular UI libraries & internal SDKs (React Native + React Web) to unify web/mobile dev.  
+- Contributing to open-source: more custom hooks, web3 utilities, automated CI/CD pipelines for multi-repo setups.  
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+---
 
-## &#x1f4c8; GitHub Stats
+## 💼 Core Skills  
+| Front-End | Back-End / Infra | Web3 / Modern Tools |
+|-----------|------------------|---------------------|
+| React, NextJS, Redux, Zustand | Firebase (Firestore, Cloud Functions), REST/APIs | RainbowKit, Alchemy, Web3Auth |
+| TypeScript, JavaScript (ESNext) | Serverless, Node.js, Express | Solidity basics, Smart-contract integration |
+| Material-UI, Emotion, Styled-Components | CI/CD, Testing (Cypress, Jest) | Wallet connect flows, DApp UX |
+| Responsive Design, Accessibility, Performance Optimization | Webpack, Vite, Micro-frontends | Token flows, DeFi UI patterns |
 
-<a href="https://github.com/salmanfazal01/salmanfazal01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfazal01&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/salmanfazal01/salmanfazal01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfazal01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Salman's GitHub Stats" />
-</a> 
+---
 
-<!-- links to social media icons -->
+## 🎯 Key Projects  
+- **Maker Academy Platform**: End-to-end from Figma -> code + web3 login + analytics.  
+- **Flight Centre Front-end**: High-end react architecture, SDK maintenance, cross-platform mobile/web.  
+- **Forex Lens / Your Fuse Apps**: Built full-stack features with React + Firebase + cloud functions for trading/trading-analysis tools. :contentReference[oaicite:7]{index=7}  
+- **Open-source contributions**: Hooks library, internal util modules, community packages (link in GitHub profile).  
 
-<!-- icons with padding -->
+---
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## 📊 GitHub Stats  
+![Salman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmanFazal01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanFazal01&layout=compact&theme=radical)  
 
-<!-- icons without padding -->
+---
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/salmanfazal01/salmanfazal01/master/linkedin-3-16.png (LinkedIn icon without padding)
+## 🌟 Why Work With Me?  
+- I deliver *high-quality UX driven code* — not just “it works”, but “it delights”.  
+- I have proven ability to *lead from the front*: from technical design to ship.  
+- I’m forward-looking: web3, multi-platform, modern dev workflows.  
+- I’m collaborator-first: cross-team workflows, design hand-offs, SDK maintenance.  
 
+---
 
-<!-- links to your social media accounts -->
+## 📫 How to Reach Me  
+- Portfolio: [salmans.work](https://salmans.work/)  
+- LinkedIn: [linkedin.com/in/salmanfazal](https://ca.linkedin.com/in/salmanfazal)  
+- GitHub: [github.com/SalmanFazal01](https://github.com/SalmanFazal01)  
+- Email: `salmanfazal01@gmail.com` :contentReference[oaicite:8]{index=8}  
 
-[1]: https://twitter.com/Nephew_Sam_
-[2]: https://github.com/salmanfazal01
-[3]: https://www.linkedin.com/in/salmanfazal/
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+## 💬 Fun Facts & ⚡️ Extras  
+- ☕ I believe a perfect dev stack is like a perfect shot of espresso: strong, smooth, no jitters.  
+- I’ve built my own micro-SDKs and internal packages, because sometimes open-source isn’t enough — you make your own.  
+- Web3 isn’t a fad for me — I’m obsessed with good UX in crypto (wallet connect flows, gasless UX, educational platforms).  
+- If code were melodies, I’d remix Figma designs like DJ drops.  
 
+---
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+> “Make it simple, but significant.” – Don’t just build features. Build resonant experiences.
+
+---
+
+Thanks for stopping by — if you liked what you saw, let’s build something great together.  
