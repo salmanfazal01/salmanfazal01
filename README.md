@@ -4,7 +4,7 @@
   LinkedIn: https://ca.linkedin.com/in/salmanfazal :contentReference[oaicite:2]{index=2}
 -->
 
-# Hi, I’m Salman 👋  
+# Hi, I’m Salman and this is all AI generated 👋  
 ### Full-Stack Developer | React / NextJS / TypeScript | Web3 & Firebase
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nephew_Sam_?style=social)](https://twitter.com/Nephew_Sam_)  
